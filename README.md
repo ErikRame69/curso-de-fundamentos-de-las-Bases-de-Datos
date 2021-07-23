@@ -5,7 +5,7 @@
 El **Curso  de Fundamento de datos** nos mostro de una manera practica a como podemos gestionar las bases de datos de una manera sencilla, las bases que no sbrindan en el curso son demasiado amplias, aparte de eso no s muestran ejemplo de manera muy detallada, explicad y clara, sin duda el mejor curso que he tomado de la academia de java backend.
 
 **Te recomiendo que veas los apuntes realizados durante las clases para que tengas nocion de todos los conceptos vistos en este curso.
-[Notas del Curso de Fundamentos de Bases de Datos](https://www.notion.so/Clases-del-Curso-de-Fundamentos-de-Bases-de-Datos-1447b4ae18fb4c68bacfe80751ad6867)
+[Notas del Curso de Fundamentos de Bases de Datos](https://www.notion.so/Clases-del-Curso-de-Fundamentos-de-Bases-de-Datos-1447b4ae18fb4c68bacfe80751ad6867)**
 
 ### Proyecto Blog platzi
 En este proyecto desmenbramos el funcionamiento de platzi para asi poder hacer un diagrama fisico que nos diera la comprension para poder crear una base de datos optima y precida para el timpo de plataforma requerida, vimos diversos conceptos y la forma en la que estos conceptos se relacionan. La mayoria del tiempo los comando fueron repatitivos a diferencia de la base de datos simulada donde implemtentamos conceptos de busqueda mas especializados.
